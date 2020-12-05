@@ -1,0 +1,25 @@
+282: number
+main : identifier
+(
+)
+{ 
+int : keyword 
+a : identifier
+,
+b : identifier
+==: relational operator EQ 
+5: number
+. 
+284: number
+;
+/': invalid lexeme
+<: relational operator LT
+>: relational operator GT
+<: relational operator LT
++
+<=: relational operator LE
+!
+,
+!=: relational operator NE
+vishnu : identifier
+comment did not close
